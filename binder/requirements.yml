@@ -9,5 +9,6 @@ dependencies:
   - nodejs
   - ipympl
   - widgetsnbextension
+  - ipywidgets
 
 
