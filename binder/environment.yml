@@ -5,6 +5,7 @@ dependencies:
   - ipython
   - numpy
   - scipy
+  - sympy
   - matplotlib
   - nodejs
   - ipympl
